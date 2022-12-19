@@ -21,4 +21,3 @@
 <ul>
   <li>ФИО: Зубкова Ангелина Николаевна</li>
   <li>Email: zubkova_angelinka@bk.ru</li>
-# uml2
