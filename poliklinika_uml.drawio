@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T15:57:35.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.818 Yowser/2.5 Safari/537.36" etag="72GQ0jgmJDpv8KWN62k5" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-26T16:01:13.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.818 Yowser/2.5 Safari/537.36" etag="ATsakvCHIL_zGTcbQ4OF" version="20.7.4" type="github" pages="2">
   <diagram id="j6V6h9FoFdwmIfW46cJj" name="Страница 1">
-    <mxGraphModel dx="1614" dy="-415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="-442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,8 +372,8 @@
         </mxCell>
         <mxCell id="fYBuSzv-L18BOnukDocC-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=-0.3;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="915" y="2358" as="sourcePoint" />
-            <mxPoint x="350" y="2355.71" as="targetPoint" />
+            <mxPoint x="910" y="2352.29" as="sourcePoint" />
+            <mxPoint x="345" y="2350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYBuSzv-L18BOnukDocC-26" value="назначение лечения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fYBuSzv-L18BOnukDocC-23" vertex="1" connectable="0">
@@ -381,14 +381,14 @@
             <mxPoint x="-4" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYBuSzv-L18BOnukDocC-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="fYBuSzv-L18BOnukDocC-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="2398.04" as="sourcePoint" />
-            <mxPoint x="915" y="2398" as="targetPoint" />
+            <mxPoint x="340" y="2410" as="sourcePoint" />
+            <mxPoint x="910" y="2410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYBuSzv-L18BOnukDocC-31" value="повторное посещение&amp;nbsp;&lt;br&gt;врача" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="525" y="2378" width="150" height="40" as="geometry" />
+          <mxGeometry x="539.07" y="2390" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYBuSzv-L18BOnukDocC-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="335" y="2338" width="10" height="80" as="geometry" />
